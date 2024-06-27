@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fru Nde</h1>
+<h1 align="center">Hi 👋, I'm Fru</h1>
 <h3 align="center">I'm passionate technologist. Love disrupting entropy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frulouis&label=Profile%20views&color=0e75b6&style=flat" alt="frulouis" /> </p>
